@@ -1,15 +1,12 @@
 <h2 align="left">Hi 👋! My name is [Your Name] and I'm a [Your Role], from [Your Country]</h2>
 
 ###
-
+<img align="right" height="150" src="https://github.com/user-attachments/assets/72a9697f-6732-483e-86ee-c2b078b68606" alt="profile" />
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jhonja999&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonja999&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://github.com/user-attachments/assets/72a9697f-6732-483e-86ee-c2b078b68606" alt="profile" />
 
 ###
 
@@ -31,8 +28,7 @@
 
 ###
 
-<div align="left">
-  <a href="https://youtube.com"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" /></a>
+<div align="left">  
   <a href="https://instagram.com"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /></a>
   <a href="https://twitch.tv"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" /></a>
   <a href="mailto:example@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
@@ -45,7 +41,7 @@
 
 <img align="center" height="150" width="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWdvNGxvamJkcmtuNnFkNDR0emlvOTJoOGN4bmExcHc5cTN0MXhkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" alt="dev banner" />
 
-### Hi 👋, I'm [Your Name]
+### Hi 👋, I'm Jhon Jairo Vargas
 
 ---
 
@@ -59,59 +55,46 @@ I specialize in frontend and backend development, with the following languages a
 - **Databases**: MySQL, MongoDB, PostgreSQL
 
 **🔭 I’m currently working on**  
-- [Your Project Name](https://github.com/jhonja999/jairo-portafolio): Description of the project you're working on.
+- [Feria Ganadera](https://github.com/jhonja999/jairo-portafolio): Description of the project you're working on.
 
 **🌱 I’m currently learning**  
-- [Your learning path], such as new frameworks or courses.
+- [Astro], such as new frameworks or courses.
 
 **💬 Ask me about**  
-- JavaScript, React, Python, GSAP
+- JavaScript, React, Python, AI generation Images
 
 **📫 How to reach me**  
-- example@gmail.com
+- jjrvm999@gmail.com
 
 **👨‍💻 All of my projects are available at**  
-- [Your Portfolio Link](https://yourportfolio.com)
-
-**📝 I regularly write articles on**  
-- [Blog Link](https://yourblog.com)
-
-**📄 Know about my experiences**  
-- [Resume Link](https://yourresume.com)
+- [PORTFOLIO](https://yourportfolio.com)
 
 **⚡ Fun fact**  
-- I think I am funny 😄
+- I know a lot of Simpson´s dialogues 😄
 
 ---
 
 ### **Skills**
 
 #### Programming Languages
-- JavaScript, TypeScript, Python, C#, C++, Go, PHP, Ruby, Scala, Swift, Rust
+- JavaScript, TypeScript, Python, C#
 
 #### Frameworks & Libraries
-- React, Vue.js, Svelte, Angular, Bootstrap, Django, Node.js, Spring, Flask
+- Astro, React, Bootstrap, Node.js, Spring
 
 #### Databases
-- MySQL, PostgreSQL, MongoDB, Redis
-
-#### DevOps Tools
-- Docker, Jenkins, Kubernetes, AWS, Azure, GCP
-
-#### Testing Tools
-- Cypress, Jest, Selenium, Mocha
+- MySQL, PostgreSQL, MongoDB, SQLite
 
 #### Other
-- Git, Linux, Firebase, Figma, Postman
+- Git, Linux, Figma, Postman, AI loras, safetensors, Image prompting and canvas.
 
 ---
 
 ### **Connect with Me**
-- [GitHub](https://github.com/your-github-username)
-- [LinkedIn](https://linkedin.com/in/your-linkedin-username)
-- [Twitter](https://twitter.com/your-twitter-username)
-- [Instagram](https://instagram.com/your-instagram-username)
-- [Dev.to](https://dev.to/your-devto-username)
+- [GitHub](https://github.com/jhonja999)
+- [LinkedIn](https://www.linkedin.com/in/vargasmjhon/)
+- [Twitter](https://x.com/jjrvm999)
+- [Instagram](https://www.instagram.com/jhon_jairus)
 
 ---
 
