@@ -38,11 +38,11 @@
 
 ###
 
-<br clear="both" />
-
+### Hi 👋, I'm Jhon Jairo Vargas
 <img align="center" height="150" width="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWdvNGxvamJkcmtuNnFkNDR0emlvOTJoOGN4bmExcHc5cTN0MXhkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" alt="dev banner" />
 
-### Hi 👋, I'm Jhon Jairo Vargas
+
+
 
 ---
 
