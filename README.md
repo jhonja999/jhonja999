@@ -1,7 +1,6 @@
 <h2 align="left">Hi 👋! My name is Jhon Jairo and I'm a Frontend UI/UX developer, from Cajamarca-Perú]</h2>
 
 ###
-<img align="right" height="150" src="https://github.com/user-attachments/assets/72a9697f-6732-483e-86ee-c2b078b68606" alt="profile" />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jhonja999&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -39,7 +38,7 @@
 ###
 
 ### Hi 👋, I'm Jhon Jairo Vargas
-<img align="center" height="150" width="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWdvNGxvamJkcmtuNnFkNDR0emlvOTJoOGN4bmExcHc5cTN0MXhkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" alt="dev banner" />
+<img align="center" height="150" src="https://github.com/user-attachments/assets/72a9697f-6732-483e-86ee-c2b078b68606" alt="profile" />
 
 
 
