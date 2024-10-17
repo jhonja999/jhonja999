@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is [Your Name] and I'm a [Your Role], from [Your Country]</h2>
+<h2 align="left">Hi 👋! My name is Jhon Jairo and I'm a Frontend UI/UX developer, from Cajamarca-Perú]</h2>
 
 ###
 <img align="right" height="150" src="https://github.com/user-attachments/assets/72a9697f-6732-483e-86ee-c2b078b68606" alt="profile" />
