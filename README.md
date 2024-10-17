@@ -2,6 +2,7 @@
 
 ###
 <img align="right" height="150" src="https://github.com/user-attachments/assets/72a9697f-6732-483e-86ee-c2b078b68606" alt="profile" />
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jhonja999&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonja999&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -29,10 +30,10 @@
 ###
 
 <div align="left">  
-  <a href="https://instagram.com"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /></a>
-  <a href="https://twitch.tv"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" /></a>
-  <a href="mailto:example@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
+  <a href="https://www.instagram.com/jhon_jairus"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /></a>
+  <a href="https://www.twitch.tv/tripa_s"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" /></a>
+  <a href="mailto:jjrvm999@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
+  <a href="https://www.linkedin.com/in/vargasmjhon/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
 </div>
 
 ###
@@ -55,10 +56,10 @@ I specialize in frontend and backend development, with the following languages a
 - **Databases**: MySQL, MongoDB, PostgreSQL
 
 **🔭 I’m currently working on**  
-- [Feria Ganadera](https://github.com/jhonja999/jairo-portafolio): Description of the project you're working on.
+- [Feria Ganadera](https://github.com/jhonja999/jairo-portafolio): Management and UI/UX frontend design.
 
 **🌱 I’m currently learning**  
-- [Astro], such as new frameworks or courses.
+- [Astro](https://astro.build):, such as new frameworks and courses.
 
 **💬 Ask me about**  
 - JavaScript, React, Python, AI generation Images
