@@ -67,7 +67,7 @@ I specialize in frontend and backend development, with the following languages a
 - jjrvm999@gmail.com
 
 **👨‍💻 All of my projects are available at**  
-- [PORTFOLIO](https://yourportfolio.com)
+- [PORTFOLIO](uxjairo.vercel.app)
 
 **⚡ Fun fact**  
 - I know a lot of Simpson´s dialogues 😄
