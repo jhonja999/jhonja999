@@ -104,4 +104,4 @@ I specialize in frontend and backend development, with the following languages a
 
 <div align="center">  
 </div>
-
+https://buymeacoffee.com/jjrvm999u
