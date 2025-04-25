@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jhon Jairo and I'm a Frontend UI/UX developer, from Cajamarca-Perú]</h2>
++<h2 align="left">Hi 👋! My name is Jhon Jairo and I'm a Frontend UI/UX developer, from Cajamarca-Perú]</h2>
 
 ###
 
@@ -104,5 +104,5 @@ I specialize in frontend and backend development, with the following languages a
 
 <div align="center">  
 </div>
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/jjrvm999u)
+<a href="https://buymeacoffee.com/jjrvm999u" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
